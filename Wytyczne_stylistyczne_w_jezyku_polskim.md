@@ -2,7 +2,7 @@
 
 ## 1. Ogólna charakterystyka stylu
 
-Styl wniosku charakteryzuje się formalnym, techniczno-naukowym językiem z elementami perswazji. Teksty pisane są w trzeciej osobie, z użyciem strony biernej i konstrukcji bezosobowych. Ton jest rzeczowy, merytoryczny, ale jednocześnie podkreślający innowacyjność i znaczenie opisywanych rozwiązań.
+Styl charakteryzuje się formalnym, techniczno-naukowym językiem z elementami perswazji. Teksty pisane są w trzeciej osobie, z użyciem strony biernej i konstrukcji bezosobowych. Ton jest rzeczowy, merytoryczny, ale jednocześnie podkreślający innowacyjność i znaczenie opisywanych rozwiązań.
 
 ---
 
